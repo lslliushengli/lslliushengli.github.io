@@ -19,6 +19,7 @@ redirect_from:
 
 # Research 
 Edge Intelligence
+
 Theoretical analysis and joint learning and communication algorithms for collaborative learning system with constrained and heterogeneous resources, such as traditional federated learning and decentralized learning.
 
 
