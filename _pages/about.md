@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes wireless communication and edge intelligence. My google scholar badge is <a href='https://scholar.google.com/citations?user=RSSNa4IAAAAJ&hl=zh-CN&oi=sra'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
-# 📝 Publications 
+# Publications 
 
 - S. Liu, G. Yu, X. Chen and M. Bennis, "Joint User Association and Resource Allocation for Wireless Hierarchical Federated Learning With IID and Non-IID Data," in IEEE Transactions on Wireless Communications, vol. 21, no. 10, pp. 7852-7866, Oct. 2022.
 - S. Liu, G. Yu, R. Yin, J. Yuan, L. Shen and C. Liu, "Joint Model Pruning and Device Selection for Communication-Efficient Federated Edge Learning," in IEEE Transactions on Communications, vol. 70, no. 1, pp. 231-244, Jan. 2022.
@@ -36,6 +36,7 @@ My research interest includes wireless communication and edge intelligence. My g
 - S. Liu, Y. Shen, J. Yuan, C. Wu and R. Yin, "Storage-Aware Joint User Scheduling and Bandwidth Allocation for Federated Edge Learning," in IEEE Transactions on Cognitive Communications and Networking, 2024.
 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Educations
+- *2024.07 - (now)*, Associate Professor, School of Communication and Information Engineering, Shanghai University. 
+- *2022.07 - 2024.06*, Postdoctoral Researcher, College of Information Science and Electronic Engineering, Zhejiang University.
+- *2017.09 - 2022.06*, PhD, College of Information Science and Electronic Engineering, Zhejiang University.
