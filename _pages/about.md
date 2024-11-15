@@ -24,19 +24,16 @@ My research interest includes wireless communication and edge intelligence. My g
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- S. Liu, G. Yu, X. Chen and M. Bennis, "Joint User Association and Resource Allocation for Wireless Hierarchical Federated Learning With IID and Non-IID Data," in IEEE Transactions on Wireless Communications, vol. 21, no. 10, pp. 7852-7866, Oct. 2022.
+- S. Liu, G. Yu, R. Yin, J. Yuan, L. Shen and C. Liu, "Joint Model Pruning and Device Selection for Communication-Efficient Federated Edge Learning," in IEEE Transactions on Communications, vol. 70, no. 1, pp. 231-244, Jan. 2022.
+- S. Liu, G. Yu, R. Yin and J. Yuan, "Adaptive Network Pruning for Wireless Federated Learning," in IEEE Wireless Communications Letters, vol. 10, no. 7, pp. 1572-1576, July 2021.
+- S. Liu, G. Yu, R. Yin, J. Yuan and F. Qu, "Communication and Computation Efficient Federated Learning for Internet of Vehicles With a Constrained Latency," in IEEE Transactions on Vehicular Technology, vol. 73, no. 1, pp. 1038-1052, Jan. 2024.
+- S. Liu, G. Yu, D. Wen, X. Chen, M. Bennis and H. Chen, "Communication and Energy Efficient Decentralized Learning Over D2D Networks," in IEEE Transactions on Wireless Communications, vol. 22, no. 12, pp. 9549-9563, Dec. 2023.
+- C. Chen, B. Jiang, S. Liu, C. Li, C. Wu and R. Yin, "Efficient Federated Learning in Resource-Constrained Edge Intelligence Networks Using Model Compression," in IEEE Transactions on Vehicular Technology, vol. 73, no. 2, pp. 2643-2655, Feb. 2024.
+- X. Xu, G. Yu and S. Liu, "Adaptive Modulation for Wireless Federated Edge Learning," in IEEE Transactions on Cognitive Communications and Networking, vol. 9, no. 4, pp. 1096-1109, Aug. 2023.
+- G. Ding, S. Liu, J. Yuan and G. Yu, "Joint URLLC Traffic Scheduling and Resource Allocation for Semantic Communication Systems," in IEEE Transactions on Wireless Communications, vol. 23, no. 7, pp. 7278-7290, July 2024.
+- Y. Chen and S. Liu, "Joint Mode Selection and Resource Allocation for D2D-Assisted Wireless Federated Learning," in IEEE Wireless Communications Letters, 2024.
+- S. Liu, Y. Shen, J. Yuan, C. Wu and R. Yin, "Storage-Aware Joint User Scheduling and Bandwidth Allocation for Federated Edge Learning," in IEEE Transactions on Cognitive Communications and Networking, 2024.
 
 
 # 📖 Educations
