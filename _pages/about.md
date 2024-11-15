@@ -21,6 +21,8 @@ redirect_from:
 Edge Intelligence
 
 Theoretical analysis and joint learning and communication algorithms for collaborative learning system with constrained and heterogeneous resources, such as traditional federated learning and decentralized learning.
+- The theoretical analysis includes convergence rate (average norm of gradient, model divergence, etc.) and learning cost (latency, energy consumption, etc.).
+- The joint learning and communication algorithms includes device selection, model pruning, topology optimization, user association, etc.
 
 
 # Publications 
